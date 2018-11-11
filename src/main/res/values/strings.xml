@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emergency Alert</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_call__page">Call Page</string>
+    <string name="title_activity_settings__page">Settings Page</string>
+    <string name="title_activity_emergency__page">Emergency Page</string>
+    <string name="title_activity_other__emergency">Other Emergency</string>
+</resources>
